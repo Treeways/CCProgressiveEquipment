@@ -1,17 +1,17 @@
 Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
-Second Hide,5,All Purpose,Any,MAXHP +50 DEF +2,Quest,,Mail,,,,,Rookiebelt,1,All Purpose,Out of logic
-Bronze Mail,9,All Purpose,Any,MAXHP +85 DEF +3,Shop,,Mail,,,,,,,,
-Iron Mail,18,All Purpose,Any,MAXHP +190 DEF +7,Shop,,Mail,,,,,,,,
-Bronze Chest Plate,22,All Purpose,Any,MAXHP +177 DEF +13 FOC +5 Trainer -20% Lucky Lucky +10%,Chest,,Chest Plate,,Base Trade,,,,,,
-Steel Mail,27,All Purpose,Any,MAXHP +340 DEF +13,Shop,,Mail,,Base Trade,,,,,,
-Silver Chest Plate,33,All Purpose,Any,"MAXHP +313 DEF +24 FOC +10 Heat Resist +10% Cold Resist +10%
+Second Hide,5,All Purpose,All-Purpose,MAXHP +50 DEF +2,Quest,,Mail,,,,,Rookiebelt,1,All Purpose,Out of logic
+Bronze Mail,9,All Purpose,All-Purpose,MAXHP +85 DEF +3,Shop,,Mail,,,,,,,,
+Iron Mail,18,All Purpose,All-Purpose,MAXHP +190 DEF +7,Shop,,Mail,,,,,,,,
+Bronze Chest Plate,22,All Purpose,All-Purpose,MAXHP +177 DEF +13 FOC +5 Trainer -20% Lucky Lucky +10%,Chest,,Chest Plate,,Base Trade,,,,,,
+Steel Mail,27,All Purpose,All-Purpose,MAXHP +340 DEF +13,Shop,,Mail,,Base Trade,,,,,,
+Silver Chest Plate,33,All Purpose,All-Purpose,"MAXHP +313 DEF +24 FOC +10 Heat Resist +10% Cold Resist +10%
 Shock Resist +10% Wave Resist +10% Trainer -25% Lucky Lucky +15%",Chest,,Chest Plate,,Base Trade,,,,,,
-Silver Mail,34,All Purpose,Any,MAXHP +480 DEF +19,Shop,,Mail,,,,,,,,
-Titan Mail,42,All Purpose,Any,MAXHP +695 DEF +25,Shop,,Mail,,,,,,,,
-Cobalt Mail,50,All Purpose,Any,MAXHP +935 DEF +32,Shop,,Mail,,,,,,,,
-Golden Chest Plate,54,All Purpose,Any,MAXHP +676 DEF +53 FOC +21 Trainer -30% Lucky Lucky +20%,Chest,,Chest Plate,,Base Trade,,,,,,
-Laser Mail,59,All Purpose,Any,MAXHP +1223 DEF +42,Shop,,Mail,,,,,,,,
-Plate of Chests,67,All Purpose,Any,"MAXHP +999 DEF +77 FOC +33 Heat Resist +10% Cold Resist +10%
+Silver Mail,34,All Purpose,All-Purpose,MAXHP +480 DEF +19,Shop,,Mail,,,,,,,,
+Titan Mail,42,All Purpose,All-Purpose,MAXHP +695 DEF +25,Shop,,Mail,,,,,,,,
+Cobalt Mail,50,All Purpose,All-Purpose,MAXHP +935 DEF +32,Shop,,Mail,,,,,,,,
+Golden Chest Plate,54,All Purpose,All-Purpose,MAXHP +676 DEF +53 FOC +21 Trainer -30% Lucky Lucky +20%,Chest,,Chest Plate,,Base Trade,,,,,,
+Laser Mail,59,All Purpose,All-Purpose,MAXHP +1223 DEF +42,Shop,,Mail,,,,,,,,
+Plate of Chests,67,All Purpose,All-Purpose,"MAXHP +999 DEF +77 FOC +33 Heat Resist +10% Cold Resist +10%
 Shock Resist +10% Wave Resist +10% Trainer -50% Lucky Lucky +30%",Trade,,Chest Plate,,DLC Trade,,,,,,
 Scrappy Plate,11,Defender,Defensive,MAXHP +55 DEF +11 Pin Body +30% Flash Step -25% Iron Stance +2%,Trade,,Pin Plate,,,,,,,,
 Spiky Jacket,17,Defender,Defensive,MAXHP +96 ATK +2 DEF +13 Pin Body +50%,Trade,,Pin Cover,,,Available from 2 trades,,,,,

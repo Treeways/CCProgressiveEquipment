@@ -1,18 +1,18 @@
 Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
-Grasswalkers,5,All Purpose,Any,MAXHP +35 DEF +1 FOC +3,Quest,,Stock Boots,,,,,Rookieboots,1,,Out of logic
-Bronze Boots,9,All Purpose,Any,MAXHP +60 DEF +2 FOC +4,Shop,,Stock Boots,,,,,,,,
-Iron Boots,18,All Purpose,Any,MAXHP +135 DEF +4 FOC +9,Shop,,Stock Boots,,,,,,,,
-Steel Boots,27,All Purpose,Any,MAXHP +245 DEF +8 FOC +15,Shop,,Stock Boots,,,,,,,,
-Silver Boots,34,All Purpose,Any,MAXHP +365 DEF +11 FOC +20,Shop,,Stock Boots,,,,,,,,
-Titan Boots,42,All Purpose,Any,MAXHP +480 DEF +19 FOC +28,Shop,,Stock Boots,,,,,,,,
-Urban Sneakers,46,All Purpose,Any,MAXHP +529 DEF +17 FOC +38 X Counter +15% Flash Step +25%,Trade,,Flashy,X Counter,,,,,,,
-Cobalt Boots,50,All Purpose,Any,MAXHP +627 DEF +26 FOC +37,Shop,,Stock Boots,,,,,,,,
-Lead Boots,58,All Purpose,Any,"MAXHP +666 ATK +6 DEF +56 FOC +31 Flash Step -15% SP Regen +15%
+Grasswalkers,5,All Purpose,All-Purpose,MAXHP +35 DEF +1 FOC +3,Quest,,Stock Boots,,,,,Rookieboots,1,,Out of logic
+Bronze Boots,9,All Purpose,All-Purpose,MAXHP +60 DEF +2 FOC +4,Shop,,Stock Boots,,,,,,,,
+Iron Boots,18,All Purpose,All-Purpose,MAXHP +135 DEF +4 FOC +9,Shop,,Stock Boots,,,,,,,,
+Steel Boots,27,All Purpose,All-Purpose,MAXHP +245 DEF +8 FOC +15,Shop,,Stock Boots,,,,,,,,
+Silver Boots,34,All Purpose,All-Purpose,MAXHP +365 DEF +11 FOC +20,Shop,,Stock Boots,,,,,,,,
+Titan Boots,42,All Purpose,All-Purpose,MAXHP +480 DEF +19 FOC +28,Shop,,Stock Boots,,,,,,,,
+Urban Sneakers,46,All Purpose,All-Purpose,MAXHP +529 DEF +17 FOC +38 X Counter +15% Flash Step +25%,Trade,,Flashy,X Counter,,,,,,,
+Cobalt Boots,50,All Purpose,All-Purpose,MAXHP +627 DEF +26 FOC +37,Shop,,Stock Boots,,,,,,,,
+Lead Boots,58,All Purpose,All-Purpose,"MAXHP +666 ATK +6 DEF +56 FOC +31 Flash Step -15% SP Regen +15%
 Leaf Bracer ",Chest,,Regenerator,Leaf Bracer,,,,,,,
-Laser Boots,59,All Purpose,Any,MAXHP +826 DEF +34 FOC +48,Shop,,Stock Boots,,,,,,,,
-Unicorn Greaves,61,All Purpose,Any,"MAXHP +636 DEF +25 FOC +85 Wave Resist +10% Flash Step +30%
+Laser Boots,59,All Purpose,All-Purpose,MAXHP +826 DEF +34 FOC +48,Shop,,Stock Boots,,,,,,,,
+Unicorn Greaves,61,All Purpose,All-Purpose,"MAXHP +636 DEF +25 FOC +85 Wave Resist +10% Flash Step +30%
 Extra Dash ",Trade,,Flashy,Extra Dash,DLC Trade,,,,,,
-Old Geta,62,All Purpose,Any,MAXHP +900 ATK +2 DEF +45 FOC +50 Cold Resist +10% Nimble Feet ,Trade,,,Nimble Feet,,,,,,,
+Old Geta,62,All Purpose,All-Purpose,MAXHP +900 ATK +2 DEF +45 FOC +50 Cold Resist +10% Nimble Feet ,Trade,,,Nimble Feet,,,,,,,
 Rusty Anchors,11,Defender,Defensive,MAXHP +65 DEF +7 Iron Stance +5%,Trade,,Anchors,,,,,,,,
 Bull Stompers,15,Defender,Defensive,MAXHP +95 ATK +4 DEF +9 Bullseye -25% Iron Stance +5%,Trade,,Anchors,-Bullseye,,,,,,,
 Icewalkers,19,Defender,Defensive,"MAXHP +155 DEF +9 FOC +4 Cold Resist +10% Iron Stance +5%
