@@ -1,20 +1,20 @@
 Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
-Explorer's Cap,5,All Purpose,Any,DEF +1 FOC +5,Quest,,Goggles,,,,,Rookiehat,1,All Purpose,Out of logic
-Bronze Goggles,9,All Purpose,Any,DEF +1 FOC +10,Shop,,Goggles,,,,,,,,
-Iron Goggles,18,All Purpose,Any,DEF +2 FOC +24,Shop,,Goggles,,,,,,,,
-Thief's Band,25,All Purpose,Any,ATK +4 FOC +36 Keeper +15%,Chest,,Robber's,Keeper,Base Trade,,,,,,
-Mighty Strand,25,All Purpose,Any,ATK +4 FOC +38 Trainer +15%,Chest,,,Trainer,DLC Trade,,,,,,
-Steel Goggles,27,All Purpose,Any,DEF +3 FOC +44,Shop,,Goggles,,,,,,,,
-Silver Goggles,34,All Purpose,Any,DEF +4 FOC +63,Shop,,Goggles,,,,,,,,
-Titan Goggles,42,All Purpose,Any,DEF +5 FOC +89,Shop,,Goggles,,,,,,,,
-Scarecrown,44,All Purpose,Any,"MAXHP +77 ATK +10 DEF +7 FOC +77 Heat Resist -10% Cold Resist -10%
+Explorer's Cap,5,All Purpose,All-Purpose,DEF +1 FOC +5,Quest,,Goggles,,,,,Rookiehat,1,All Purpose,Out of logic
+Bronze Goggles,9,All Purpose,All-Purpose,DEF +1 FOC +10,Shop,,Goggles,,,,,,,,
+Iron Goggles,18,All Purpose,All-Purpose,DEF +2 FOC +24,Shop,,Goggles,,,,,,,,
+Thief's Band,25,All Purpose,All-Purpose,ATK +4 FOC +36 Keeper +15%,Chest,,Robber's,Keeper,Base Trade,,,,,,
+Mighty Strand,25,All Purpose,All-Purpose,ATK +4 FOC +38 Trainer +15%,Chest,,,Trainer,DLC Trade,,,,,,
+Steel Goggles,27,All Purpose,All-Purpose,DEF +3 FOC +44,Shop,,Goggles,,,,,,,,
+Silver Goggles,34,All Purpose,All-Purpose,DEF +4 FOC +63,Shop,,Goggles,,,,,,,,
+Titan Goggles,42,All Purpose,All-Purpose,DEF +5 FOC +89,Shop,,Goggles,,,,,,,,
+Scarecrown,44,All Purpose,All-Purpose,"MAXHP +77 ATK +10 DEF +7 FOC +77 Heat Resist -10% Cold Resist -10%
 Shock Resist -10% Wave Resist -10% Flash Step +25% Lucky Lucky +10%",Quest,,Lucky Lucky,,,Outlier,,,,,
-Bandit's Scarf,48,Keeper,Any,ATK +20 DEF +4 FOC +91 Keeper +25%,Trade,,Robber's,,DLC Trade,Needs Pond Slums Pass,,,,,
-Cobalt Goggles,50,All Purpose,Any,DEF +6 FOC +119,Shop,,Goggles,,,,,,,,
-Tengu Mask,53,Trainer,Any,ATK +13 FOC +125 Trainer +30%,Chest,,,,,,,,,,
-Burglar's Rope,57,Keeper,Any,ATK +27 DEF +5 FOC +124 Keeper +50% Zero XP ,Chest,,Robber's,,,,,,,,
-Laser Goggles,59,All Purpose,Any,DEF +7 FOC +157,Shop,,Goggles,,,,,,,,
-Gorgon Veil,61,Status,Any,"DEF +13 FOC +160 Heat Resist +5% Cold Resist +5% Shock Resist +5%
+Bandit's Scarf,48,Keeper,All-Purpose,ATK +20 DEF +4 FOC +91 Keeper +25%,Trade,,Robber's,,DLC Trade,Needs Pond Slums Pass,,,,,
+Cobalt Goggles,50,All Purpose,All-Purpose,DEF +6 FOC +119,Shop,,Goggles,,,,,,,,
+Tengu Mask,53,Trainer,All-Purpose,ATK +13 FOC +125 Trainer +30%,Chest,,,,,,,,,,
+Burglar's Rope,57,Keeper,All-Purpose,ATK +27 DEF +5 FOC +124 Keeper +50% Zero XP ,Chest,,Robber's,,,,,,,,
+Laser Goggles,59,All Purpose,All-Purpose,DEF +7 FOC +157,Shop,,Goggles,,,,,,,,
+Gorgon Veil,61,Status,All-Purpose,"DEF +13 FOC +160 Heat Resist +5% Cold Resist +5% Shock Resist +5%
 Wave Resist +5% Bulk Calibre +30% Status Rush +20%",Trade,,,,,Weird case due to Status damage specialization. Not Veil series due to stat diff,,,,,
 Strawhat,25,All Purpose,Botany,ATK +2 DEF +2 FOC +35 Botanist ,Quest,,Botany,,,,,,,,
 Dried Grass Hat,35,All Purpose,Botany,ATK +4 DEF +5 FOC +55 Botanist ,Quest,,Botany,,,,,,,,
