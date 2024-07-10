@@ -1,6 +1,6 @@
 Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
 Edge O' All,5,All Purpose,All-Purpose,ATK +4 DEF +2,Quest,,Edge,,,Weird case since it's so weak. Two exist; one for each starter quest.,,ALL DLC WEAPONS,"A, 68+",,DLC Exclusive
-Bronze Edge,9,All Purpose,All-Purpose,ATK +7 DEF +4,Shop,Chest,Edge,,,,,,,,
+Bronze Edge,9,All Purpose,All-Purpose,ATK +7 DEF +4,Shop,Quest,Edge,,,,,,,,
 Core Drill,10,All Purpose,All-Purpose,MAXHP +15 ATK +7 FOC +2 Lucky Lucky +20%,Trade,,Drill,,Base Trade,,,,,,
 Iron Edge,18,All Purpose,All-Purpose,ATK +16 DEF +10,Shop,,Edge,,,,,,,,
 Steel Edge,27,All Purpose,All-Purpose,ATK +29 DEF +17,Shop,,Edge,,,,,,,,
