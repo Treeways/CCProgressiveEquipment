@@ -1,69 +1,69 @@
-Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
-Edge O' All,5,All Purpose,All-Purpose,ATK +4 DEF +2,Quest,,Edge,,,Weird case since it's so weak. Two exist; one for each starter quest.,,ALL DLC WEAPONS,"A, 68+",,DLC Exclusive
-Bronze Edge,9,All Purpose,All-Purpose,ATK +7 DEF +4,Shop,Quest,Edge,,,,,,,,
-Core Drill,10,All Purpose,All-Purpose,MAXHP +15 ATK +7 FOC +2 Lucky Lucky +20%,Trade,,Drill,,Base Trade,,,,,,
-Iron Edge,18,All Purpose,All-Purpose,ATK +16 DEF +10,Shop,,Edge,,,,,,,,
-Steel Edge,27,All Purpose,All-Purpose,ATK +29 DEF +17,Shop,,Edge,,,,,,,,
-Giga Spiral Drill,30,All Purpose,All-Purpose,MAXHP +80 ATK +34 FOC +14 Lucky Lucky +30%,Trade,,Drill,,Base Trade,,,Broken Gauntlet,1,Broken,Broken Series
-Silver Edge,34,All Purpose,All-Purpose,ATK +42 DEF +25,Shop,,Edge,,,,,Broken Shield,1,Broken,Broken Series
-Titan Edge,42,All Purpose,All-Purpose,ATK +59 DEF +34,Shop,,Edge,,,,,Broken Sword,1,Broken,Broken Series
-Cobalt Edge,50,All Purpose,All-Purpose,ATK +78 DEF +46,Shop,,Edge,,,,,Broken Deck,1,Broken,Broken Series
-Galaxy Spiral Drill,51,All Purpose,All-Purpose,MAXHP +170 ATK +73 FOC +35 Lucky Lucky +40%,Trade,,Drill,,Base Trade,,,Broken Chakrams,1,Broken,Broken Series
-Laser Edge,59,All Purpose,All-Purpose,ATK +102 DEF +61,Shop,,Edge,,,,,Rookieblade,1,Starter,Not in logic
-Infinity Spiral Drill,65,All Purpose,All-Purpose,MAXHP +245 ATK +113 FOC +55 Lucky Lucky +60% Zero XP ,Trade,,Drill,Zero XP,DLC Trade,,,Excalibro,47,None,Needs a hard nerf
-Daikon,13,MAXHP,Defensive,MAXHP +69 ATK +11 HP Regen +15%,Trade,Chest,MAXHP,,,,,,,,
-Battered Fist,17,Defender,Defensive,ATK +10 DEF +14 Pin Body +25% Solid Guard +25%,Trade,Quest,Fist,,,,,,,,
-Disciple Gloves,20,Defender,Defensive,ATK +10 DEF +20 FOC +10 Royal Guard +30%,Quest,,Royal Gloves,,Base Trade,Tradeable,,,,,
-Rapier Carrot,24,MAXHP,Defensive,MAXHP +88 ATK +23 FOC +8 Bullseye +25% HP Regen +18%,Trade,,MAXHP,Bullseye,,,,,,,
-Western Starfist,31,Defender,Defensive,ATK +26 DEF +33 Pin Body +25% Solid Guard +25%,Trade,,Fist,,,,,,,,
-Adept Gloves,40,Defender,Defensive,ATK +25 DEF +36 FOC +25 Royal Guard +50% Riposte ,Quest,,Royal Gloves,Riposte,,,,,,,
-Aehre,45,MAXHP,Defensive,MAXHP +266 ATK +65 DEF +13 Assault +10% HP Regen +15%,Trade,Chest,MAXHP,Assault,,,,,,,
-Lawkeeper's Fist,46,Defender,Defensive,ATK +50 DEF +58 Pin Body +25% Solid Guard +25%,Trade,,Fist,,,,,,,,
-Panzer Fist,56,Defender,Defensive,ATK +69 DEF +82 Pin Body +25% Solid Guard +25%,Trade,,Fist,,,,,,,,
-Unbreaking Fist,63,Defender,Defensive,ATK +83 DEF +99 Pin Body +25% Solid Guard +25%,Trade,,Fist,,DLC Trade,Tradeable in DLC,,,,,
-Brostick of Force,64,MAXHP,Defensive,MAXHP +300 ATK +102 DEF +55 X Counter +50% Iron Stance +2%,Trade,,MAXHP,X Counter,,,,,,,
-Eternal Salami,65,MAXHP,Defensive,MAXHP +717 ATK +120 X Counter +50% Berserker -50% HP Regen +20%,Trade,,MAXHP,-Berserker,,Arena Only. Not very melee viable,,,,,
-Meister Gloves,67,Defender,Defensive,ATK +60 DEF +82 FOC +60 Bouncer +30% Royal Guard +100% Riposte ,Trade,,Royal Gloves,Riposte,DLC Trade,Tradeable in DLC,,,,,
-Mugger's Blade,11,Brawler,Melee,ATK +10 DEF +2 Brawler +20%,Trade,,Brawler,,,,,,,,
-Hardwood Stave,20,Assault,Melee,MAXHP +52 ATK +17 DEF +9 Assault +10% Iron Stance +2%,Trade,,Assault,MAXHP,,MAXHP +52 ATK +17 DEF +9 Assault +10% Iron Stance +2%,,,,,
-Winterclaw,26,Brawler,Melee,ATK +29 DEF +14 Brawler +20%,Chest,,Brawler,,Base Trade,Tradeable in DLC,,,,,
-Maverick Edge,30,Brawler,Melee,ATK +38 DEF +15 Brawler +20% X Counter +15%,Trade,,Brawler,X Counter,,,,,,,
+Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Base Count,Is Renewable,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
+Edge O' All,5,All-Purpose,All-Purpose,ATK +4 DEF +2,Quest,,Edge,,2,Not Renewable,,Weird case since it's so weak. Two exist; one for each starter quest.,,ALL DLC WEAPONS,"A, 68+",,DLC Exclusive
+Bronze Edge,9,All-Purpose,All-Purpose,ATK +7 DEF +4,Shop,Quest,Edge,,1,Renewable,,,,,,,
+Core Drill,10,All-Purpose,All-Purpose,MAXHP +15 ATK +7 FOC +2 Lucky Lucky +20%,Trade,,Drill,,1,Not Renewable,Base Trade,,,,,,
+Iron Edge,18,All-Purpose,All-Purpose,ATK +16 DEF +10,Shop,,Edge,,1,Renewable,,,,,,,
+Steel Edge,27,All-Purpose,All-Purpose,ATK +29 DEF +17,Shop,,Edge,,1,Renewable,,,,,,,
+Giga Spiral Drill,30,All-Purpose,All-Purpose,MAXHP +80 ATK +34 FOC +14 Lucky Lucky +30%,Trade,,Drill,,1,Not Renewable,Base Trade,,,Broken Gauntlet,1,Broken,Broken Series
+Silver Edge,34,All-Purpose,All-Purpose,ATK +42 DEF +25,Shop,,Edge,,1,Renewable,,,,Broken Shield,1,Broken,Broken Series
+Titan Edge,42,All-Purpose,All-Purpose,ATK +59 DEF +34,Shop,,Edge,,1,Renewable,,,,Broken Sword,1,Broken,Broken Series
+Cobalt Edge,50,All-Purpose,All-Purpose,ATK +78 DEF +46,Shop,,Edge,,1,Renewable,,,,Broken Deck,1,Broken,Broken Series
+Galaxy Spiral Drill,51,All-Purpose,All-Purpose,MAXHP +170 ATK +73 FOC +35 Lucky Lucky +40%,Trade,,Drill,,1,Not Renewable,Base Trade,,,Broken Chakrams,1,Broken,Broken Series
+Laser Edge,59,All-Purpose,All-Purpose,ATK +102 DEF +61,Shop,,Edge,,1,Renewable,,,,Rookieblade,1,Starter,Not in logic
+Infinity Spiral Drill,65,All-Purpose,All-Purpose,MAXHP +245 ATK +113 FOC +55 Lucky Lucky +60% Zero XP ,Trade,,Drill,Zero XP,1,Not Renewable,DLC Trade,,,Excalibro,47,None,Needs a hard nerf
+Daikon,13,MAXHP,Defensive,MAXHP +69 ATK +11 HP Regen +15%,Trade,Chest,MAXHP,,1,Renewable,,,,,,,
+Battered Fist,17,Defender,Defensive,ATK +10 DEF +14 Pin Body +25% Solid Guard +25%,Trade,Quest,Fist,,1,Renewable,,,,,,,
+Disciple Gloves,20,Defender,Defensive,ATK +10 DEF +20 FOC +10 Royal Guard +30%,Quest,,Royal Gloves,,1,Not Renewable,Base Trade,Tradeable,,,,,
+Rapier Carrot,24,MAXHP,Defensive,MAXHP +88 ATK +23 FOC +8 Bullseye +25% HP Regen +18%,Trade,,MAXHP,Bullseye,1,Renewable,,,,,,,
+Western Starfist,31,Defender,Defensive,ATK +26 DEF +33 Pin Body +25% Solid Guard +25%,Trade,,Fist,,1,Renewable,,,,,,,
+Adept Gloves,40,Defender,Defensive,ATK +25 DEF +36 FOC +25 Royal Guard +50% Riposte ,Quest,,Royal Gloves,Riposte,1,Not Renewable,,,,,,,
+Aehre,45,MAXHP,Defensive,MAXHP +266 ATK +65 DEF +13 Assault +10% HP Regen +15%,Trade,Chest,MAXHP,Assault,1,Renewable,,,,,,,
+Lawkeeper's Fist,46,Defender,Defensive,ATK +50 DEF +58 Pin Body +25% Solid Guard +25%,Trade,,Fist,,1,Renewable,,,,,,,
+Panzer Fist,56,Defender,Defensive,ATK +69 DEF +82 Pin Body +25% Solid Guard +25%,Trade,,Fist,,1,Renewable,,,,,,,
+Unbreaking Fist,63,Defender,Defensive,ATK +83 DEF +99 Pin Body +25% Solid Guard +25%,Trade,,Fist,,1,Renewable,DLC Trade,Tradeable in DLC,,,,,
+Brostick of Force,64,MAXHP,Defensive,MAXHP +300 ATK +102 DEF +55 X Counter +50% Iron Stance +2%,Trade,,MAXHP,X Counter,1,Renewable,,,,,,,
+Eternal Salami,65,MAXHP,Defensive,MAXHP +717 ATK +120 X Counter +50% Berserker -50% HP Regen +20%,Trade,,MAXHP,-Berserker,1,Not Renewable,,Arena Only. Not very melee viable,,,,,
+Meister Gloves,67,Defender,Defensive,ATK +60 DEF +82 FOC +60 Bouncer +30% Royal Guard +100% Riposte ,Trade,,Royal Gloves,Riposte,1,Not Renewable,DLC Trade,Tradeable in DLC,,,,,
+Mugger's Blade,11,Brawler,Melee,ATK +10 DEF +2 Brawler +20%,Trade,,Brawler,,1,Renewable,,,,,,,
+Hardwood Stave,20,Assault,Melee,MAXHP +52 ATK +17 DEF +9 Assault +10% Iron Stance +2%,Trade,,Assault,MAXHP,1,Renewable,,MAXHP +52 ATK +17 DEF +9 Assault +10% Iron Stance +2%,,,,,
+Winterclaw,26,Brawler,Melee,ATK +29 DEF +14 Brawler +20%,Chest,,Brawler,,1,Not Renewable,Base Trade,Tradeable in DLC,,,,,
+Maverick Edge,30,Brawler,Melee,ATK +38 DEF +15 Brawler +20% X Counter +15%,Trade,,Brawler,X Counter,1,Renewable,,,,,,,
 Humming Razor,36,Assault,Melee,"ATK +52 DEF +11 FOC +11 Steady Shot -10% Assault +20%
-Solid Guard -25%",Chest,,Assault Razor,,,,,,,,
-Sunset Claw,38,Brawler,Melee,ATK +51 DEF +27 Brawler +10% Avenger +25%,Trade,Chest,Brawler,Avenger,,Brawler +10% is a downgrade from previous weapons,,,,,
+Solid Guard -25%",Chest,,Assault Razor,,1,Not Renewable,,,,,,,
+Sunset Claw,38,Brawler,Melee,ATK +51 DEF +27 Brawler +10% Avenger +25%,Trade,Chest,Brawler,Avenger,1,Renewable,,Brawler +10% is a downgrade from previous weapons,,,,,
 Twitching Slicer,44,Assault,Melee,"ATK +77 DEF +13 FOC +13 Steady Shot -15% Assault +35%
-Solid Guard -25%",Trade,,Assault Razor,,,,,,,,
-Survivor's Blade,54,Brawler,Melee,MAXHP +111 ATK +89 DEF +42 Brawler +20% HP Regen +15%,Trade,,Brawler,MAXHP,,,,,,,
+Solid Guard -25%",Trade,,Assault Razor,,1,Not Renewable,,,,,,,
+Survivor's Blade,54,Brawler,Melee,MAXHP +111 ATK +89 DEF +42 Brawler +20% HP Regen +15%,Trade,,Brawler,MAXHP,1,Renewable,,,,,,,
 Shuddering Cleaver,58,Assault,Melee,"ATK +120 DEF +20 FOC +20 Steady Shot -20% Assault +50%
-Solid Guard -25%",Trade,,Assault Razor,,DLC Quest,Needed for DLC quest,,,,,
-Hydra Fang,61,Assault,Melee,MAXHP +135 ATK +110 DEF +50 Assault +20% HP Regen +15%,Trade,,Assault,,Base Trade,Tradeable in DLC,,,,,
-Skirmisher,62,Brawler,Melee,ATK +123 DEF +45 FOC +9 Brawler +20% Flash Step +10%,Trade,,Brawler,Flash Step,Base Trade,Tradeable in DLC,,,,,
-Civilian Trigger,11,Shooter,Ranged,ATK +9 FOC +4 Shooter +20%,Trade,,Trigger,,,,,,,,
-Copper Gull,21,Shooter,Ranged,ATK +27 FOC +6 Legwork -15% Bulk Calibre +35% Shooter +20%,Trade,Chest,Metal Bird,,,,,,,,
-Gunner's Trigger,29,Shooter,Ranged,ATK +37 FOC +15 Shooter +20%,Trade,,Trigger,,,,,,,,
-Hunter's Bolt,37,Shooter,Ranged,ATK +58 FOC +18 Scope +10% Shooter +10%,Trade,Quest,Trigger,,,Shooter % downgraded,,,,,
+Solid Guard -25%",Trade,,Assault Razor,,1,Renewable,DLC Quest,Needed for DLC quest,,,,,
+Hydra Fang,61,Assault,Melee,MAXHP +135 ATK +110 DEF +50 Assault +20% HP Regen +15%,Trade,,Assault,,1,Renewable,Base Trade,Tradeable in DLC,,,,,
+Skirmisher,62,Brawler,Melee,ATK +123 DEF +45 FOC +9 Brawler +20% Flash Step +10%,Trade,,Brawler,Flash Step,1,Renewable,Base Trade,Tradeable in DLC,,,,,
+Civilian Trigger,11,Shooter,Ranged,ATK +9 FOC +4 Shooter +20%,Trade,,Trigger,,1,Renewable,,,,,,,
+Copper Gull,21,Shooter,Ranged,ATK +27 FOC +6 Legwork -15% Bulk Calibre +35% Shooter +20%,Trade,Chest,Metal Bird,,1,Renewable,,,,,,,
+Gunner's Trigger,29,Shooter,Ranged,ATK +37 FOC +15 Shooter +20%,Trade,,Trigger,,1,Renewable,,,,,,,
+Hunter's Bolt,37,Shooter,Ranged,ATK +58 FOC +18 Scope +10% Shooter +10%,Trade,Quest,Trigger,,1,Renewable,,Shooter % downgraded,,,,,
 Rough Branch,41,Shooter,Ranged,"MAXHP +43 ATK +20 DEF +5 Heat Resist -25% Wave Resist +10%
-Bulk Calibre +15%",Chest,,Branch,,Base Trade,You can find two of these from two chests,,,,,
-Silver Hawk,47,Shooter,Ranged,ATK +82 FOC +31 Legwork -15% Bulk Calibre +35% Shooter +20%,Trade,,Metal Bird,,,,,,,,
-Golden Revolver,50,Shooter,Ranged,ATK +88 FOC +36 Scope +25% Legwork +10%,Trade,,Trigger,Scope,,"Shooter outlier, and somewhat of a Trigger outlier",,,,,
+Bulk Calibre +15%",Chest,,Branch,,2,Not Renewable,Base Trade,You can find two of these from two chests,,,,,
+Silver Hawk,47,Shooter,Ranged,ATK +82 FOC +31 Legwork -15% Bulk Calibre +35% Shooter +20%,Trade,,Metal Bird,,1,Renewable,,,,,,,
+Golden Revolver,50,Shooter,Ranged,ATK +88 FOC +36 Scope +25% Legwork +10%,Trade,,Trigger,Scope,1,Renewable,,"Shooter outlier, and somewhat of a Trigger outlier",,,,,
 Bigger Stick,51,Shooter,Ranged,"MAXHP +166 ATK +88 DEF +24 Heat Resist -25% Wave Resist +10%
-Bulk Calibre +75% Flash Step -25%",Trade,,Branch,-Flash Step,,Requires two Rough Branches,,,,,
-Marksmen Trigger,55,Shooter,Ranged,ATK +101 FOC +45 Scope +10% Shooter +20%,Trade,,Trigger,,,,,,,,
-Golden Falcon,64,Shooter,Ranged,ATK +129 FOC +57 Legwork -15% Bulk Calibre +50% Shooter +20%,Trade,,Metal Bird,,DLC Trade,,,,,,
-Knocking One,65,Shooter,Ranged,ATK +135 DEF +28 FOC +28 Scope +20% Bulk Calibre +100%,Trade,,Bulk Calibre,,,Arena Only,,,,,
-Pendulum Striker,65,Shooter,Ranged,ATK +125 DEF +24 FOC +42 Steady Shot +30% Momentum +10%,Trade,,Momentum,,,Arena Only,,,,,
-Swiftspike,15,Crit,Special,ATK +13 FOC +7 Bullseye +50%,Trade,Quest,Fast and Sharp,,,,,,,,
-Climbing Pick,19,Crit,Special,ATK +16 FOC +11 Bullseye +50%,Trade,,Fast and Sharp,,,,,,,,
-Rocksplitter,21,All Purpose,Special,ATK +22 DEF +12 Bouncer +30%,Trade,Chest,Bouncer,,,Outlier,,,,,
-Prickly Bracer,25,Status Rush,Special,ATK +12 DEF +13 FOC +14 Pin Body +25% Status Rush +20%,Trade,Chest,Bracer,Pin Body,Base Trade,Mixed with +25% Pin Body,,,,,
-Hidden Blade,28,Crit,Special,ATK +29 FOC +20 Scope +10% Bullseye +50%,Trade,Chest,Fast and Sharp,Scope,,,,,,,
-Bright Bracer,35,Status Rush,Special,ATK +21 DEF +24 FOC +26 Avenger +15% Status Rush +20%,Trade,Chest,Bracer,Avenger,,,,,,,
-Sneaky Shiv,47,Crit,Special,ATK +73 FOC +39 Bullseye +50%,Trade,Chest,Fast and Sharp,,,,,,,,
-Sparkling Bracer,48,Status Rush,Special,ATK +34 DEF +39 FOC +42 Avenger +15% Status Rush +25%,Trade,,Bracer,Avenger,,,,,,,
-Sonic Spike,57,Crit,Special,ATK +71 FOC +84 Bullseye +50% Bouncer +20%,Chest,,Fast and Sharp,Bouncer,DLC Trade,Tradeable in DLC,,,,,
+Bulk Calibre +75% Flash Step -25%",Trade,,Branch,-Flash Step,1,Not Renewable,,Requires two Rough Branches,,,,,
+Marksmen Trigger,55,Shooter,Ranged,ATK +101 FOC +45 Scope +10% Shooter +20%,Trade,,Trigger,,1,Renewable,,,,,,,
+Golden Falcon,64,Shooter,Ranged,ATK +129 FOC +57 Legwork -15% Bulk Calibre +50% Shooter +20%,Trade,,Metal Bird,,1,Renewable,DLC Trade,,,,,,
+Knocking One,65,Shooter,Ranged,ATK +135 DEF +28 FOC +28 Scope +20% Bulk Calibre +100%,Trade,,Bulk Calibre,,1,Not Renewable,,Arena Only,,,,,
+Pendulum Striker,65,Shooter,Ranged,ATK +125 DEF +24 FOC +42 Steady Shot +30% Momentum +10%,Trade,,Momentum,,1,Not Renewable,,Arena Only,,,,,
+Swiftspike,15,Crit,Special,ATK +13 FOC +7 Bullseye +50%,Trade,Quest,Fast and Sharp,,1,Renewable,,,,,,,
+Climbing Pick,19,Crit,Special,ATK +16 FOC +11 Bullseye +50%,Trade,,Fast and Sharp,,1,Renewable,,,,,,,
+Rocksplitter,21,All Purpose,Special,ATK +22 DEF +12 Bouncer +30%,Trade,Chest,Bouncer,,1,Renewable,,Outlier,,,,,
+Prickly Bracer,25,Status Rush,Special,ATK +12 DEF +13 FOC +14 Pin Body +25% Status Rush +20%,Trade,Chest,Bracer,Pin Body,1,Renewable,Base Trade,Mixed with +25% Pin Body,,,,,
+Hidden Blade,28,Crit,Special,ATK +29 FOC +20 Scope +10% Bullseye +50%,Trade,Chest,Fast and Sharp,Scope,1,Renewable,,,,,,,
+Bright Bracer,35,Status Rush,Special,ATK +21 DEF +24 FOC +26 Avenger +15% Status Rush +20%,Trade,Chest,Bracer,Avenger,1,Renewable,,,,,,,
+Sneaky Shiv,47,Crit,Special,ATK +73 FOC +39 Bullseye +50%,Trade,Chest,Fast and Sharp,,1,Renewable,,,,,,,
+Sparkling Bracer,48,Status Rush,Special,ATK +34 DEF +39 FOC +42 Avenger +15% Status Rush +25%,Trade,,Bracer,Avenger,1,Renewable,,,,,,,
+Sonic Spike,57,Crit,Special,ATK +71 FOC +84 Bullseye +50% Bouncer +20%,Chest,,Fast and Sharp,Bouncer,1,Not Renewable,DLC Trade,Tradeable in DLC,,,,,
 Shining Bracer,59,Status Rush,Special,"ATK +48 DEF +56 FOC +60 Heat Resist +5% Cold Resist +5%
-Shock Resist +5% Wave Resist +5% Avenger +20% Status Rush +25%",Trade,Chest,Bracer,Avenger,,Tradeable,,,,,
-Warkeeper,60,All Purpose,Special,MAXHP +100 ATK +108 FOC +50 Berserker +50%,Chest,,Berserker,Various stats,DLC Trade,Outlier. Amazing general purpose weapon,,,,,
-Mantis Whip,63,Crit,Special,ATK +88 FOC +94 Scope +15% Bullseye +50%,Trade,,Fast and Sharp,Scope,DLC Trade,Tradeable in DLC,,,,,
+Shock Resist +5% Wave Resist +5% Avenger +20% Status Rush +25%",Trade,Chest,Bracer,Avenger,1,Renewable,,Tradeable,,,,,
+Warkeeper,60,All Purpose,Special,MAXHP +100 ATK +108 FOC +50 Berserker +50%,Chest,,Berserker,Various stats,1,Not Renewable,DLC Trade,Outlier. Amazing general purpose weapon,,,,,
+Mantis Whip,63,Crit,Special,ATK +88 FOC +94 Scope +15% Bullseye +50%,Trade,,Fast and Sharp,Scope,1,Renewable,DLC Trade,Tradeable in DLC,,,,,
 Radiant Bracer,68,Status Rush,Special,"ATK +62 DEF +72 FOC +75 Heat Resist +10% Cold Resist +10%
-Shock Resist +10% Wave Resist +10% Avenger +20% Status Rush +30%",Trade,,Bracer,Avenger,,Tradeable in DLC,,,,,
+Shock Resist +10% Wave Resist +10% Avenger +20% Status Rush +30%",Trade,,Bracer,Avenger,1,Not Renewable,,Tradeable in DLC,,,,,

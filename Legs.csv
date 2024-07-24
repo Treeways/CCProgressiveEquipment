@@ -1,55 +1,55 @@
-Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
-Grasswalkers,5,All Purpose,All-Purpose,MAXHP +35 DEF +1 FOC +3,Quest,,Stock Boots,,,,,Rookieboots,1,,Out of logic
-Bronze Boots,9,All Purpose,All-Purpose,MAXHP +60 DEF +2 FOC +4,Shop,,Stock Boots,,,,,,,,
-Iron Boots,18,All Purpose,All-Purpose,MAXHP +135 DEF +4 FOC +9,Shop,,Stock Boots,,,,,,,,
-Steel Boots,27,All Purpose,All-Purpose,MAXHP +245 DEF +8 FOC +15,Shop,,Stock Boots,,,,,,,,
-Silver Boots,34,All Purpose,All-Purpose,MAXHP +365 DEF +11 FOC +20,Shop,,Stock Boots,,,,,,,,
-Titan Boots,42,All Purpose,All-Purpose,MAXHP +480 DEF +19 FOC +28,Shop,,Stock Boots,,,,,,,,
-Urban Sneakers,46,All Purpose,All-Purpose,MAXHP +529 DEF +17 FOC +38 X Counter +15% Flash Step +25%,Trade,,Flashy,X Counter,,,,,,,
-Cobalt Boots,50,All Purpose,All-Purpose,MAXHP +627 DEF +26 FOC +37,Shop,,Stock Boots,,,,,,,,
-Lead Boots,58,All Purpose,All-Purpose,"MAXHP +666 ATK +6 DEF +56 FOC +31 Flash Step -15% SP Regen +15%
-Leaf Bracer ",Chest,,Regenerator,Leaf Bracer,,,,,,,
-Laser Boots,59,All Purpose,All-Purpose,MAXHP +826 DEF +34 FOC +48,Shop,,Stock Boots,,,,,,,,
-Unicorn Greaves,61,All Purpose,All-Purpose,"MAXHP +636 DEF +25 FOC +85 Wave Resist +10% Flash Step +30%
-Extra Dash ",Trade,,Flashy,Extra Dash,DLC Trade,,,,,,
-Old Geta,62,All Purpose,All-Purpose,MAXHP +900 ATK +2 DEF +45 FOC +50 Cold Resist +10% Nimble Feet ,Trade,,,Nimble Feet,,,,,,,
-Rusty Anchors,11,Defender,Defensive,MAXHP +65 DEF +7 Iron Stance +5%,Trade,,Anchors,,,,,,,,
-Bull Stompers,15,Defender,Defensive,MAXHP +95 ATK +4 DEF +9 Bullseye -25% Iron Stance +5%,Trade,,Anchors,-Bullseye,,,,,,,
+Name,Level,Type,Playstyle,Statistics,Obtained Via,Also Obtained Via,Series,Sub Trait,Base Count,Is Renewable,Is Ingredient,Notes,,Excluded Name,Level,Type,Reason
+Grasswalkers,5,All-Purpose,All-Purpose,MAXHP +35 DEF +1 FOC +3,Quest,,Stock Boots,,1,Not Renewable,,,,Rookieboots,1,,Out of logic
+Bronze Boots,9,All-Purpose,All-Purpose,MAXHP +60 DEF +2 FOC +4,Shop,,Stock Boots,,1,Renewable,,,,,,,
+Iron Boots,18,All-Purpose,All-Purpose,MAXHP +135 DEF +4 FOC +9,Shop,,Stock Boots,,1,Renewable,,,,,,,
+Steel Boots,27,All-Purpose,All-Purpose,MAXHP +245 DEF +8 FOC +15,Shop,,Stock Boots,,1,Renewable,,,,,,,
+Silver Boots,34,All-Purpose,All-Purpose,MAXHP +365 DEF +11 FOC +20,Shop,,Stock Boots,,1,Renewable,,,,,,,
+Titan Boots,42,All-Purpose,All-Purpose,MAXHP +480 DEF +19 FOC +28,Shop,,Stock Boots,,1,Renewable,,,,,,,
+Urban Sneakers,46,All-Purpose,All-Purpose,MAXHP +529 DEF +17 FOC +38 X Counter +15% Flash Step +25%,Trade,,Flashy,X Counter,1,Renewable,,,,,,,
+Cobalt Boots,50,All-Purpose,All-Purpose,MAXHP +627 DEF +26 FOC +37,Shop,,Stock Boots,,1,Renewable,,,,,,,
+Lead Boots,58,All-Purpose,All-Purpose,"MAXHP +666 ATK +6 DEF +56 FOC +31 Flash Step -15% SP Regen +15%
+Leaf Bracer ",Chest,,Regenerator,Leaf Bracer,1,Not Renewable,,,,,,,
+Laser Boots,59,All-Purpose,All-Purpose,MAXHP +826 DEF +34 FOC +48,Shop,,Stock Boots,,1,Renewable,,,,,,,
+Unicorn Greaves,61,All-Purpose,All-Purpose,"MAXHP +636 DEF +25 FOC +85 Wave Resist +10% Flash Step +30%
+Extra Dash ",Trade,,Flashy,Extra Dash,1,Renewable,DLC Trade,,,,,,
+Old Geta,62,All-Purpose,All-Purpose,MAXHP +900 ATK +2 DEF +45 FOC +50 Cold Resist +10% Nimble Feet ,Trade,,,Nimble Feet,1,Not Renewable,,,,,,,
+Rusty Anchors,11,Defender,Defensive,MAXHP +65 DEF +7 Iron Stance +5%,Trade,,Anchors,,1,Renewable,,,,,,,
+Bull Stompers,15,Defender,Defensive,MAXHP +95 ATK +4 DEF +9 Bullseye -25% Iron Stance +5%,Trade,,Anchors,-Bullseye,1,Renewable,,,,,,,
 Icewalkers,19,Defender,Defensive,"MAXHP +155 DEF +9 FOC +4 Cold Resist +10% Iron Stance +5%
-Ice Skater ",Trade,,Anchors,Ice Skater,,,,,,,
+Ice Skater ",Trade,,Anchors,Ice Skater,1,Renewable,,,,,,,
 Wooly Socks,20,MAXHP,Defensive,"MAXHP +199 DEF +3 FOC +7 Cold Resist +10% HP Regen +18%
-Status Mend +35%",Quest,,Regenerator,Status Mend,,,,,,,
+Status Mend +35%",Quest,,Regenerator,Status Mend,1,Not Renewable,,,,,,,
 Ancient Sandals,25,Status,Defensive,"MAXHP +182 DEF +6 FOC +16 Heat Resist +10% Cold Resist +10%
-Shock Resist +10% Wave Resist +10% Balance +20%",Chest,,,Balance,DLC Trade,,,,,,
-Curly Slippers,28,MAXHP,Defensive,MAXHP +299 DEF +5 FOC +15 Bulk Calibre +15% HP Regen +15%,Trade,,Regenerator,Bulk Calibre,,,,,,,
-Lavish Anchors,29,Defender,Defensive,MAXHP +264 DEF +23 FOC +3 Iron Stance +5%,Trade,,Anchors,,,,,,,,
-Stable Footguard,38,Defender,Defensive,MAXHP +420 DEF +28 FOC +9 Solid Guard +10% Iron Stance +5%,Trade,,Anchors,Solid Guard,,Available from 3 trades,,,,,
-Pathfinders,45,Status,Defensive,MAXHP +555 DEF +19 FOC +30 Wave Resist +10% Status Mend +35%,Trade,,,Status Mend,,,,,,,
-Hydraulic Anchors,47,Defender,Defensive,MAXHP +444 DEF +44 FOC +22 Legwork +10% Iron Stance +5%,Trade,,Anchors,Legwork,,,,,,,
+Shock Resist +10% Wave Resist +10% Balance +20%",Chest,,,Balance,1,Not Renewable,DLC Trade,,,,,,
+Curly Slippers,28,MAXHP,Defensive,MAXHP +299 DEF +5 FOC +15 Bulk Calibre +15% HP Regen +15%,Trade,,Regenerator,Bulk Calibre,1,Renewable,,,,,,,
+Lavish Anchors,29,Defender,Defensive,MAXHP +264 DEF +23 FOC +3 Iron Stance +5%,Trade,,Anchors,,1,Renewable,,,,,,,
+Stable Footguard,38,Defender,Defensive,MAXHP +420 DEF +28 FOC +9 Solid Guard +10% Iron Stance +5%,Trade,,Anchors,Solid Guard,1,Renewable,,Available from 3 trades,,,,,
+Pathfinders,45,Status,Defensive,MAXHP +555 DEF +19 FOC +30 Wave Resist +10% Status Mend +35%,Trade,,,Status Mend,1,Renewable,,,,,,,
+Hydraulic Anchors,47,Defender,Defensive,MAXHP +444 DEF +44 FOC +22 Legwork +10% Iron Stance +5%,Trade,,Anchors,Legwork,1,Renewable,,,,,,,
 Bamboots,55,Status,Defensive,"MAXHP +777 DEF +26 FOC +42 Wave Resist +10% Flash Step +25%
-Status Mend +35%",Trade,,Flashy,Status Mend,,,,,,,
-Brave Anchors,56,Defender,Defensive,MAXHP +601 DEF +60 FOC +30 X Counter +15% Iron Stance +5%,Trade,,Anchors,X Counter,,,,,,,
+Status Mend +35%",Trade,,Flashy,Status Mend,1,Renewable,,,,,,,
+Brave Anchors,56,Defender,Defensive,MAXHP +601 DEF +60 FOC +30 X Counter +15% Iron Stance +5%,Trade,,Anchors,X Counter,1,Renewable,,,,,,,
 Praetorian Anchors,63,Defender,Defensive,"MAXHP +731 DEF +73 FOC +36 Wave Resist +10% Iron Stance +5%
-SP Regen +10%",Trade,,Anchors,SP Regen,DLC Trade,,,,,,
+SP Regen +10%",Trade,,Anchors,SP Regen,1,Renewable,DLC Trade,,,,,,
 Mistwalkers,64,Status,Defensive,"MAXHP +888 DEF +18 FOC +80 Wave Resist +10% Flash Step +35%
-Status Rush +20%",Trade,,Flashy,Status Rush,DLC Trade,,,,,,
+Status Rush +20%",Trade,,Flashy,Status Rush,1,Renewable,DLC Trade,,,,,,
 Paedalos,65,MAXHP,Defensive,"MAXHP +1111 DEF +33 FOC +47 Extra Dash -1 HP Regen +25%
-SP Regen +35%",Shop,,Regenerator,-Extra Dash,DLC Trade,Arena Only,,,,,
-Fleety Sandals,11,Shooter,Offensive,MAXHP +42 DEF +2 FOC +7 Legwork +25%,Trade,,Sandals,Legwork,,,,,,,
-Feline Paws,17,Crit,Offensive,MAXHP +69 ATK +2 DEF +2 FOC +9 Bullseye +25% Flash Step +25%,Trade,,Flashy,Bullseye,,Available from 2 trades,,,,,
-Desert Sandals,24,Shooter,Offensive,MAXHP +177 DEF +4 FOC +19 Scope +10% Legwork +10%,Trade,,Sandals,Legwork,,Available from 2 trades,,,,,
+SP Regen +35%",Shop,,Regenerator,-Extra Dash,1,Not Renewable,DLC Trade,Arena Only,,,,,
+Fleety Sandals,11,Shooter,Offensive,MAXHP +42 DEF +2 FOC +7 Legwork +25%,Trade,,Sandals,Legwork,1,Renewable,,,,,,,
+Feline Paws,17,Crit,Offensive,MAXHP +69 ATK +2 DEF +2 FOC +9 Bullseye +25% Flash Step +25%,Trade,,Flashy,Bullseye,1,Renewable,,Available from 2 trades,,,,,
+Desert Sandals,24,Shooter,Offensive,MAXHP +177 DEF +4 FOC +19 Scope +10% Legwork +10%,Trade,,Sandals,Legwork,1,Renewable,,Available from 2 trades,,,,,
 Weird Skates,26,Momentum,Offensive,"MAXHP +169 DEF +6 FOC +22 Cold Resist +10% Momentum +5%
-Extra Dash ",Quest,,Odd,Extra Dash,,,,,,,
-Carpet Runners,30,Shooter,Offensive,MAXHP +191 DEF +7 FOC +28 Legwork +25% Flash Step +25%,Trade,,Flashy,Legwork,,,,,,,
-Shinkickers,37,Brawler,Offensive,MAXHP +256 ATK +12 DEF +14 FOC +26 Brawler +10%,Trade,,Brawler,,,Available from 3 trades,,,,,
-Boom Walkers,40,Shooter,Offensive,MAXHP +222 ATK +15 DEF +8 FOC +42 Legwork +25% Flash Step +50%,Trade,,Flashy,Legwork,DLC Trade,,,,,,
+Extra Dash ",Quest,,Odd,Extra Dash,1,Not Renewable,,,,,,,
+Carpet Runners,30,Shooter,Offensive,MAXHP +191 DEF +7 FOC +28 Legwork +25% Flash Step +25%,Trade,,Flashy,Legwork,1,Renewable,,,,,,,
+Shinkickers,37,Brawler,Offensive,MAXHP +256 ATK +12 DEF +14 FOC +26 Brawler +10%,Trade,,Brawler,,1,Renewable,,Available from 3 trades,,,,,
+Boom Walkers,40,Shooter,Offensive,MAXHP +222 ATK +15 DEF +8 FOC +42 Legwork +25% Flash Step +50%,Trade,,Flashy,Legwork,1,Renewable,DLC Trade,,,,,,
 Trench Boots,52,Crit,Offensive,"MAXHP +500 ATK +13 DEF +10 FOC +60 Bulk Calibre +30% Bullseye +30%
-SP Regen -20%",Trade,,Heavy Boots,Bullseye,Base Trade,,,,,,
+SP Regen -20%",Trade,,Heavy Boots,Bullseye,1,Renewable,Base Trade,,,,,,
 Lunatic Paws,60,Momentum,Offensive,"MAXHP +372 ATK +35 DEF +20 FOC +75 Momentum +15% Extra Dash
-Solid Guard -30%",Quest,,Odd,Extra Dash,DLC Trade,,,,,,
+Solid Guard -30%",Quest,,Odd,Extra Dash,1,Not Renewable,DLC Trade,,,,,,
 Deadly Dancers,62,Shooter,Offensive,"MAXHP +808 ATK +13 DEF +20 FOC +65 Wave Resist +10%
-Legwork +25% Shooter +10%",Trade,,,Legwork,DLC Trade,,,,,,
+Legwork +25% Shooter +10%",Trade,,,Legwork,1,Renewable,DLC Trade,,,,,,
 Combat Skates,65,Brawler,Offensive,"MAXHP +864 ATK +15 DEF +25 FOC +65 Cold Resist +10% Brawler +10%
-Ice Skater ",Shop,,Brawler,Ice Skater,DLC Trade,Arena Only,,,,,
+Ice Skater ",Shop,,Brawler,Ice Skater,1,Not Renewable,DLC Trade,Arena Only,,,,,
 Artillery Boots,66,Crit,Offensive,"MAXHP +737 ATK +20 DEF +15 FOC +88 Bulk Calibre +50% Bullseye +35%
-SP Regen -20%",Trade,,Heavy Boots,Bullseye,DLC Trade,,,,,,
+SP Regen -20%",Trade,,Heavy Boots,Bullseye,1,Renewable,DLC Trade,,,,,,

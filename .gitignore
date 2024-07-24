@@ -210,3 +210,4 @@ pyrightconfig.json
 
 *.json
 *.png
+.~lock*
