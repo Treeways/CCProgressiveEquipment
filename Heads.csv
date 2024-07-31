@@ -36,8 +36,8 @@ Hardhead Hat,55,Status,Defensive,"DEF +84 FOC +62 Heat Resist +10% Cold Resist +
 Wave Resist +10% Avenger +10%",Trade,,,,1,Renewable,,,,,,,
 Serene Bubble,62,Status,Defensive,"MAXHP +158 DEF +92 FOC +69 Heat Resist +10% Cold Resist +10%
 Shock Resist +10% Wave Resist +10% Balance +20% HP Regen +15%",Trade,,Balanced,,1,Renewable,DLC Trade,,,,,,
-Dragon's Bandana,65,Defender,Defensive,ATK +20 DEF +20 FOC +151 Avenger +20% Royal Guard +30%,Shop,,Bandana,,1,Not Renewable,DLC Trade,Arena Only,,,,,
-Tranquil Earmuffs,65,Status,Defensive,DEF +101 FOC +91 Shock Resist +25% Wave Resist +25% SP Regen +15%,Shop,,,,1,Not Renewable,DLC Trade,Arena Only,,,,,
+Dragon's Bandana,65,Defender,Defensive,ATK +20 DEF +20 FOC +151 Avenger +20% Royal Guard +30%,Arena,,Bandana,,1,Not Renewable,DLC Trade,Arena Only,,,,,
+Tranquil Earmuffs,65,Status,Defensive,DEF +101 FOC +91 Shock Resist +25% Wave Resist +25% SP Regen +15%,Arena,,,,1,Not Renewable,DLC Trade,Arena Only,,,,,
 Recruit's Scope,11,Shooter,Offensive,DEF +2 FOC +11 Scope +25%,Trade,,,,1,Renewable,,,,,,,
 Shady Monocle,15,Crit,Offensive,FOC +20 Bullseye +25%,Trade,,Glasses,,1,Renewable,,,,,,,
 Edgy Headphones,17,Shooter,Offensive,ATK +3 DEF +2 FOC +18 Legwork +10% Shooter +10%,Trade,,,,1,Renewable,,,,,,,

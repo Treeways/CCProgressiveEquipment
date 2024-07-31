@@ -34,7 +34,7 @@ SP Regen +10%",Trade,,Anchors,SP Regen,1,Renewable,DLC Trade,,,,,,
 Mistwalkers,64,Status,Defensive,"MAXHP +888 DEF +18 FOC +80 Wave Resist +10% Flash Step +35%
 Status Rush +20%",Trade,,Flashy,Status Rush,1,Renewable,DLC Trade,,,,,,
 Paedalos,65,MAXHP,Defensive,"MAXHP +1111 DEF +33 FOC +47 Extra Dash -1 HP Regen +25%
-SP Regen +35%",Shop,,Regenerator,-Extra Dash,1,Not Renewable,DLC Trade,Arena Only,,,,,
+SP Regen +35%",Arena,,Regenerator,-Extra Dash,1,Not Renewable,DLC Trade,Arena Only,,,,,
 Fleety Sandals,11,Shooter,Offensive,MAXHP +42 DEF +2 FOC +7 Legwork +25%,Trade,,Sandals,Legwork,1,Renewable,,,,,,,
 Feline Paws,17,Crit,Offensive,MAXHP +69 ATK +2 DEF +2 FOC +9 Bullseye +25% Flash Step +25%,Trade,,Flashy,Bullseye,1,Renewable,,Available from 2 trades,,,,,
 Desert Sandals,24,Shooter,Offensive,MAXHP +177 DEF +4 FOC +19 Scope +10% Legwork +10%,Trade,,Sandals,Legwork,1,Renewable,,Available from 2 trades,,,,,
@@ -50,6 +50,6 @@ Solid Guard -30%",Quest,,Odd,Extra Dash,1,Not Renewable,DLC Trade,,,,,,
 Deadly Dancers,62,Shooter,Offensive,"MAXHP +808 ATK +13 DEF +20 FOC +65 Wave Resist +10%
 Legwork +25% Shooter +10%",Trade,,,Legwork,1,Renewable,DLC Trade,,,,,,
 Combat Skates,65,Brawler,Offensive,"MAXHP +864 ATK +15 DEF +25 FOC +65 Cold Resist +10% Brawler +10%
-Ice Skater ",Shop,,Brawler,Ice Skater,1,Not Renewable,DLC Trade,Arena Only,,,,,
+Ice Skater ",Arena,,Brawler,Ice Skater,1,Not Renewable,DLC Trade,Arena Only,,,,,
 Artillery Boots,66,Crit,Offensive,"MAXHP +737 ATK +20 DEF +15 FOC +88 Bulk Calibre +50% Bullseye +35%
 SP Regen -20%",Trade,,Heavy Boots,Bullseye,1,Renewable,DLC Trade,,,,,,
