@@ -23,7 +23,7 @@ The Last Strawhat,60,All-Purpose,Botany,ATK +16 DEF +20 FOC +143 Botanist ,Quest
 Cooling Veil,11,MAXHP,Defensive,MAXHP +31 DEF +6 FOC +4 Heat Resist +25%,Trade,Chest,Veil,,1,Renewable,,,,,,,
 Student's Bandana,13,Defender,Defensive,ATK +2 DEF +1 FOC +13 Flash Step +10% Royal Guard +10%,Trade,,Bandana,,1,Renewable,,,,,,,
 Furry Cap,19,MAXHP,Defensive,MAXHP +85 DEF +11 FOC +9 Cold Resist +25%,Trade,Chest,,,1,Renewable,,,,,,,
-Proper Tophat,20,Status,Defensive,DEF +7 FOC +23 Bulk Calibre +15% Status Mend +15%,Trade,Quest,,,1,Renewable,,,,,,,
+Proper Tophat,20,Status,Defensive,DEF +7 FOC +23 Bulk Calibre +15% Status Mend +15%,Quest,,,,1,Renewable,,Exclusively available via its quest,,,,,
 Miner's Helmet,25,Status,Defensive,"DEF +18 FOC +30 Heat Resist +10% Cold Resist +10% Shock Resist +10%
 Wave Resist +10% Steady Shot +50%",Trade,Quest,,,1,Renewable,,,,,,,
 Chilling Veil,30,MAXHP,Defensive,MAXHP +88 DEF +25 FOC +20 Heat Resist +25%,Trade,,Veil,,1,Renewable,,,,,,,
